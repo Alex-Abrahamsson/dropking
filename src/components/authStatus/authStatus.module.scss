@@ -1,0 +1,19 @@
+@import '@/styles/variables';
+
+.authStatus {
+    padding: 16px;
+    background-color: $background-clear-glass;
+    border-radius: $radius-medium;
+    color: $text-primary;
+
+    h3 {
+        margin: 0 0 8px 0;
+        font-size: 16px;
+    }
+
+    p {
+        margin: 4px 0;
+        font-size: 14px;
+        color: $text-secondary;
+    }
+}

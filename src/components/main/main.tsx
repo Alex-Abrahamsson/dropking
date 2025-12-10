@@ -5,6 +5,8 @@ import Card from '../card/card';
 import Filter from '../filter/filter';
 import itemsData from '../../data/items.json';
 import { ItemData, EItemTypes, EItemSubTypes } from '@/types/generalTypes';
+import AuthStatus from '../authStatus/authStatus';
+import Login from '../auth/login';
 
 const items = itemsData as ItemData[];
 
@@ -89,6 +91,8 @@ export default function Main() {
     return (
         <main className={styles.main}>
             <div className={styles.left}>
+                <Login />
+                <AuthStatus />
                 <Filter
                     selectedTypes={selectedTypes}
                     selectedSubTypes={selectedSubTypes}
