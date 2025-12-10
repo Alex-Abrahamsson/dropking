@@ -1,0 +1,38 @@
+// Colors
+$background-primary: #fafafa;
+$background-secondary: #fff;
+$background-dark: #000;
+$background-clear-glass: rgba(0, 0, 0, 0.2);
+$background-blurred-glass: rgba(0, 0, 0, 0.25);
+
+$text-primary: #fff;
+$text-secondary: #666;
+$text-dark: #000;
+
+$button-primary-hover: #383838;
+$button-secondary-hover: #f2f2f2;
+$button-secondary-border: #ebebeb;
+
+$radius-small: 4px;
+$radius-medium: 8px;
+$radius-large: 16px;
+
+// Spacing
+$spacing-xs: 0.5rem;
+$spacing-sm: 1rem;
+$spacing-md: 2rem;
+$spacing-lg: 4rem;
+$spacing-xl: 8rem;
+
+// Breakpoints
+$breakpoint-mobile: 768px;
+$breakpoint-tablet: 1024px;
+$breakpoint-desktop: 1440px;
+
+// Layout
+$max-width-content: 2500px;
+$min-height-page: 100vh;
+
+// Font families
+$font-diablo: var(--font-diablo);
+$font-diablo-bold: var(--font-diablo-bold);

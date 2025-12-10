@@ -1,0 +1,181 @@
+@import '@/styles/variables';
+
+.filter {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 16px;
+    width: 100%;
+}
+
+.filterSection {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+    h3 {
+        color: $text-primary;
+        font-size: 16px;
+        margin: 0 0 8px 0;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+        padding-bottom: 4px;
+    }
+}
+
+.filterOption {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    color: $text-secondary;
+    font-size: 14px;
+    transition: color 0.2s;
+
+    &:hover {
+        color: $text-primary;
+    }
+
+    input[type='checkbox'] {
+        cursor: pointer;
+        width: 16px;
+        height: 16px;
+    }
+
+    span {
+        user-select: none;
+    }
+}
+
+// Sökfält styling
+.searchContainer {
+    position: relative;
+    width: 100%;
+}
+
+.searchInput {
+    width: 100%;
+    padding: 8px 30px 8px 12px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 4px;
+    color: $text-primary;
+    font-size: 14px;
+    outline: none;
+    transition: border-color 0.2s;
+
+    &:focus {
+        border-color: rgba(255, 255, 255, 0.4);
+    }
+
+    &::placeholder {
+        color: rgba(255, 255, 255, 0.4);
+    }
+}
+
+.clearButton {
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    color: rgba(255, 255, 255, 0.5);
+    cursor: pointer;
+    font-size: 16px;
+    padding: 4px;
+    transition: color 0.2s;
+
+    &:hover {
+        color: $text-primary;
+    }
+}
+
+// Suggestions dropdown
+.suggestions {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    margin-top: 4px;
+    background-color: rgba(0, 0, 0, 0.9);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 4px;
+    max-height: 300px;
+    overflow-y: auto;
+    z-index: 1000;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+
+    // Custom scrollbar för suggestions
+    &::-webkit-scrollbar {
+        width: 6px;
+    }
+
+    &::-webkit-scrollbar-track {
+        background: rgba(255, 255, 255, 0.05);
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 3px;
+
+        &:hover {
+            background: rgba(255, 255, 255, 0.3);
+        }
+    }
+}
+
+.suggestionItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 12px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+
+    &:last-child {
+        border-bottom: none;
+    }
+
+    &:hover {
+        background-color: rgba(255, 255, 255, 0.1);
+    }
+}
+
+.suggestionName {
+    color: $text-primary;
+    font-size: 14px;
+}
+
+.suggestionType {
+    color: $text-secondary;
+    font-size: 12px;
+    opacity: 0.7;
+}
+
+// Sort dropdown styling
+.sortSelect {
+    width: 100%;
+    padding: 8px 12px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 4px;
+    color: $text-primary;
+    font-size: 14px;
+    cursor: pointer;
+    outline: none;
+    transition: border-color 0.2s;
+
+    &:hover {
+        border-color: rgba(255, 255, 255, 0.3);
+    }
+
+    &:focus {
+        border-color: rgba(255, 255, 255, 0.4);
+    }
+
+    option {
+        background-color: rgb(20, 20, 20);
+        color: $text-primary;
+    }
+}

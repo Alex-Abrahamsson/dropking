@@ -1,0 +1,49 @@
+@import '@/styles/variables';
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    // width: 100%;
+    min-width: 300px;
+    max-width: 450px;
+    background-color: $background-clear-glass;
+    border-radius: $radius-medium;
+    box-shadow: 4px 4px 0px rgba(20, 0, 0, 0.2);
+    padding: $spacing-xs;
+
+
+    h3 {
+        color: $text-primary;
+        margin: 6px;
+    }
+
+    p {
+        color: $text-secondary;
+        margin: 0 0 6px 0;
+        text-align: left;
+    }
+}
+
+.cardDetails {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.cardInfo {
+    display: flex;
+    width: 85%;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.cardActions {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 15%;
+}
