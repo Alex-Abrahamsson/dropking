@@ -3,11 +3,152 @@
 .highscore {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: flex-start;
     width: 100%;
-    min-height: $min-height-page;
-    background-color: $background-clear-glass;
-    border: 1px solid lime;
     padding: $spacing-lg;
+
+    h2 {
+        color: #d4af37;
+        font-size: 1.5rem;
+        margin-bottom: $spacing-md;
+        text-align: center;
+        text-shadow: 0 0 10px rgba(212, 175, 55, 0.5);
+    }
+}
+
+.loading,
+.empty {
+    color: $text-secondary;
+    text-align: center;
+    padding: $spacing-lg;
+}
+
+.leaderboard {
+    display: flex;
+    flex-direction: column;
+    gap: $spacing-xs;
+}
+
+.entry {
+    display: grid;
+    grid-template-columns: 50px 2fr 90px 110px;
+    gap: $spacing-sm;
+    align-items: center;
+    padding: $spacing-sm $spacing-md;
+    background: rgba(0, 0, 0, 0.4);
+    border: 1px solid rgba(139, 115, 85, 0.5);
+    border-radius: 4px;
+    transition: all 0.2s ease;
+
+    &:hover {
+        background: rgba(0, 0, 0, 0.6);
+        border-color: rgba(139, 115, 85, 0.8);
+    }
+
+    .rank {
+        color: $text-secondary;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .name {
+        color: $text-primary;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .items {
+        color: $text-secondary;
+        font-size: 0.9rem;
+        text-align: right;
+    }
+
+    .points {
+        color: #d4af37;
+        font-weight: bold;
+        text-align: right;
+    }
+}
+
+// Top 3 special styling
+.rank1 {
+    border-color: rgba(255, 215, 0, 0.6);
+    background: linear-gradient(135deg, rgba(255, 215, 0, 0.1), rgba(0, 0, 0, 0.4));
+
+    .rank {
+        color: #ffd700;
+        text-shadow: 0 0 10px rgba(255, 215, 0, 0.8);
+    }
+}
+
+.rank2 {
+    border-color: rgba(192, 192, 192, 0.6);
+    background: linear-gradient(135deg, rgba(192, 192, 192, 0.1), rgba(0, 0, 0, 0.4));
+
+    .rank {
+        color: #c0c0c0;
+        text-shadow: 0 0 10px rgba(192, 192, 192, 0.6);
+    }
+}
+
+.rank3 {
+    border-color: rgba(205, 127, 50, 0.6);
+    background: linear-gradient(135deg, rgba(205, 127, 50, 0.1), rgba(0, 0, 0, 0.4));
+
+    .rank {
+        color: #cd7f32;
+        text-shadow: 0 0 10px rgba(205, 127, 50, 0.6);
+    }
+}
+
+// Current user highlight
+.currentUser {
+    border-color: rgba(212, 175, 55, 0.8);
+    background: linear-gradient(135deg, rgba(212, 175, 55, 0.15), rgba(0, 0, 0, 0.5));
+    box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);
+
+    .name {
+        color: #d4af37;
+        font-weight: bold;
+    }
+}
+
+.separator {
+    text-align: center;
+    color: $text-secondary;
+    padding: $spacing-xs 0;
+    font-size: 1.2rem;
+    letter-spacing: 0.2rem;
+}
+
+.modeToggle {
+    display: flex;
+    gap: $spacing-xs;
+    margin-bottom: $spacing-md;
+}
+
+.modeButton {
+    flex: 1;
+    padding: $spacing-xs $spacing-sm;
+    background: rgba(0, 0, 0, 0.4);
+    border: 1px solid rgba(139, 115, 85, 0.5);
+    border-radius: 4px;
+    color: $text-primary;
+    font-size: 0.9rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.2s ease;
+
+    &:hover {
+        background: rgba(0, 0, 0, 0.6);
+        border-color: rgba(139, 115, 85, 0.8);
+    }
+
+    &.active {
+        background: linear-gradient(135deg, rgba(212, 175, 55, 0.3), rgba(212, 175, 55, 0.1));
+        border-color: rgba(212, 175, 55, 0.8);
+        color: #d4af37;
+        box-shadow: 0 0 10px rgba(212, 175, 55, 0.3);
+    }
 }

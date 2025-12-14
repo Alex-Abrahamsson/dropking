@@ -1,6 +1,6 @@
 'use client';
 import React, { useState, useEffect } from 'react';
-import { auth } from '@/lib/firebase';
+import { auth, db } from '@/lib/firebase';
 import {
     signInWithPopup,
     GoogleAuthProvider,
@@ -8,9 +8,14 @@ import {
     onAuthStateChanged,
     User,
 } from 'firebase/auth';
+import { doc, setDoc, getDoc } from 'firebase/firestore';
 import styles from './login.module.scss';
 
-export default function Login() {
+interface LoginProps {
+    totalPoints?: number;
+}
+
+export default function Login({ totalPoints = 0 }: LoginProps) {
     const [error, setError] = useState('');
     const [user, setUser] = useState<User | null>(null);
 
@@ -27,7 +32,35 @@ export default function Login() {
 
         try {
             const provider = new GoogleAuthProvider();
-            await signInWithPopup(auth, provider);
+            const result = await signInWithPopup(auth, provider);
+            const user = result.user;
+
+            // Save user info to Firestore
+            const userRef = doc(db, 'users', user.uid);
+            const userDoc = await getDoc(userRef);
+
+            if (!userDoc.exists()) {
+                // Create new user document
+                await setDoc(userRef, {
+                    displayName: user.displayName || 'Anonymous',
+                    email: user.email,
+                    createdAt: new Date().toISOString(),
+                });
+            } else {
+                // Update existing user with displayName if missing
+                const userData = userDoc.data();
+                if (!userData.displayName) {
+                    await setDoc(
+                        userRef,
+                        {
+                            ...userData,
+                            displayName: user.displayName || 'Anonymous',
+                        },
+                        { merge: true }
+                    );
+                }
+            }
+
             console.log('Logged in with Google successfully!');
         } catch (err: any) {
             setError(err.message);
@@ -79,6 +112,7 @@ export default function Login() {
                     <p className={styles.userName}>
                         {user.displayName || user.email}
                     </p>
+                    <p className={styles.points}>Points: {totalPoints}</p>
                     <button className={styles.signOut} onClick={handleSignOut}>
                         Sign Out
                     </button>

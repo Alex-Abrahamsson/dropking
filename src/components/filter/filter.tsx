@@ -9,8 +9,12 @@ interface IFilter {
     onTypeChange: (type: EItemTypes) => void;
     onSubTypeChange: (subType: EItemSubTypes) => void;
     onSearchChange: (searchTerm: string) => void;
-    onSortChange: (sortBy: 'points-high' | 'points-low' | 'name-asc' | 'name-desc') => void;
+    onSortChange: (
+        sortBy: 'points-high' | 'points-low' | 'name-asc' | 'name-desc'
+    ) => void;
+    onViewChange: (view: 'not-found' | 'found') => void;
     allItems: ItemData[];
+    currentView: 'not-found' | 'found';
 }
 
 export default function Filter({
@@ -20,13 +24,17 @@ export default function Filter({
     onSubTypeChange,
     onSearchChange,
     onSortChange,
+    onViewChange,
     allItems,
+    currentView,
 }: IFilter) {
     const itemTypes = Object.values(EItemTypes);
     const itemSubTypes = Object.values(EItemSubTypes);
     const [searchTerm, setSearchTerm] = useState('');
     const [showSuggestions, setShowSuggestions] = useState(false);
-    const [sortBy, setSortBy] = useState<'points-high' | 'points-low' | 'name-asc' | 'name-desc'>('points-high');
+    const [sortBy, setSortBy] = useState<
+        'points-high' | 'points-low' | 'name-asc' | 'name-desc'
+    >('points-high');
 
     const suggestions = useMemo(() => {
         if (searchTerm.length < 2) return [];
@@ -66,6 +74,29 @@ export default function Filter({
 
     return (
         <div className={styles.filter}>
+            {/* View Toggle */}
+            <div className={styles.filterSection}>
+                <h3>View</h3>
+                <div className={styles.viewToggle}>
+                    <button
+                        className={`${styles.viewButton} ${
+                            currentView === 'not-found' ? styles.active : ''
+                        }`}
+                        onClick={() => onViewChange('not-found')}
+                    >
+                        Not Found
+                    </button>
+                    <button
+                        className={`${styles.viewButton} ${
+                            currentView === 'found' ? styles.active : ''
+                        }`}
+                        onClick={() => onViewChange('found')}
+                    >
+                        Found Items
+                    </button>
+                </div>
+            </div>
+
             <div className={styles.filterSection}>
                 <h3>Search</h3>
                 <div className={styles.searchContainer}>

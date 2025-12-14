@@ -7,7 +7,7 @@
     // width: 100%;
     min-width: 300px;
     max-width: 450px;
-    background-color: $background-clear-glass;
+    background-color: $background-blurred-glass;
     border-radius: $radius-medium;
     box-shadow: 4px 4px 0px rgba(20, 0, 0, 0.2);
     padding: $spacing-xs;
@@ -23,6 +23,22 @@
         margin: 0 0 6px 0;
         text-align: left;
     }
+}
+
+.cardHeader {
+    display: flex;
+    align-items: center;
+    gap: $spacing-sm;
+    width: 100%;
+}
+
+.cardImage {
+    flex-shrink: 0;
+}
+
+.itemImage {
+    object-fit: contain;
+    filter: drop-shadow(0 0 4px rgba(0, 0, 0, 0.5));
 }
 
 .cardDetails {
@@ -46,4 +62,39 @@
     flex-direction: column;
     align-items: center;
     width: 15%;
+
+    input[type='checkbox'] {
+        width: 18px;
+        height: 18px;
+        cursor: pointer;
+        appearance: none;
+        -webkit-appearance: none;
+        border: 2px solid #8b7355;
+        border-radius: 4px;
+        position: relative;
+        transition: all 0.2s ease;
+
+        &:hover {
+            border-color: #d4af37;
+            box-shadow: 0 0 8px rgba(212, 175, 55, 0.4);
+        }
+
+        &:checked {
+            background-color: rgba(212, 175, 55, 0.3);
+            border-color: #d4af37;
+            box-shadow: 0 0 10px rgba(212, 175, 55, 0.6);
+        }
+
+        &:checked::after {
+            content: '✓';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: #d4af37;
+            font-size: 24px;
+            font-weight: bold;
+            text-shadow: 0 0 4px rgba(212, 175, 55, 0.8);
+        }
+    }
 }

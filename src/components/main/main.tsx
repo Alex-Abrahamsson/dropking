@@ -3,12 +3,21 @@ import styles from './main.module.scss';
 import Highscore from '../highscore/highscore';
 import Card from '../card/card';
 import Filter from '../filter/filter';
+import Progress from '../progress/progress';
 import itemsData from '../../data/items.json';
 import { ItemData, EItemTypes, EItemSubTypes } from '@/types/generalTypes';
-import AuthStatus from '../authStatus/authStatus';
 import Login from '../auth/login';
+import { auth } from '@/lib/firebase';
+import { onAuthStateChanged } from 'firebase/auth';
+import {
+    addFoundItem,
+    removeFoundItem,
+    getFoundItems,
+} from '@/utils/firestoreHelpers';
 
 const items = itemsData as ItemData[];
+const maxPoints = items.reduce((sum, item) => sum + item.Points, 0);
+const maxItems = items.length;
 
 export default function Main() {
     const [selectedTypes, setSelectedTypes] = useState<EItemTypes[]>([]);
@@ -16,15 +25,54 @@ export default function Main() {
         []
     );
     const [searchTerm, setSearchTerm] = useState('');
-    const [sortBy, setSortBy] = useState<'points-high' | 'points-low' | 'name-asc' | 'name-desc'>('points-high');
+    const [sortBy, setSortBy] = useState<
+        'points-high' | 'points-low' | 'name-asc' | 'name-desc'
+    >('points-high');
+    const [currentView, setCurrentView] = useState<'not-found' | 'found'>(
+        'not-found'
+    );
     const [filteredItems, setFilteredItems] = useState<ItemData[]>(items);
+    const [foundItemIds, setFoundItemIds] = useState<number[]>([]);
+    const [totalPoints, setTotalPoints] = useState<number>(0);
+    const [userId, setUserId] = useState<string | null>(null);
 
     useEffect(() => {
         items.sort((a, b) => b.Points - a.Points);
     }, []);
 
     useEffect(() => {
+        const unsubscribe = onAuthStateChanged(auth, async (user) => {
+            if (user) {
+                setUserId(user.uid);
+                const { itemIds, totalPoints } = await getFoundItems(
+                    user.uid,
+                    'season'
+                );
+                setFoundItemIds(itemIds);
+                setTotalPoints(totalPoints);
+            } else {
+                setUserId(null);
+                setFoundItemIds([]);
+                setTotalPoints(0);
+            }
+        });
+
+        return () => unsubscribe();
+    }, []);
+
+    useEffect(() => {
         let filtered = items;
+
+        // Filter baserat på view (found vs not found)
+        if (currentView === 'found') {
+            filtered = filtered.filter((item) =>
+                foundItemIds.includes(item.Id)
+            );
+        } else {
+            filtered = filtered.filter(
+                (item) => !foundItemIds.includes(item.Id)
+            );
+        }
 
         if (searchTerm) {
             filtered = filtered.filter((item) =>
@@ -60,7 +108,42 @@ export default function Main() {
         });
 
         setFilteredItems(sorted);
-    }, [selectedTypes, selectedSubTypes, searchTerm, sortBy]);
+    }, [
+        selectedTypes,
+        selectedSubTypes,
+        searchTerm,
+        sortBy,
+        foundItemIds,
+        currentView,
+    ]);
+
+    const handleItemFound = async (item: ItemData, isFound: boolean) => {
+        if (!userId) {
+            console.error('User must be logged in to mark items as found');
+            return;
+        }
+
+        try {
+            if (isFound) {
+                await addFoundItem(
+                    userId,
+                    {
+                        itemId: item.Id,
+                        points: item.Points,
+                    },
+                    'season'
+                );
+                setFoundItemIds((prev) => [...prev, item.Id]);
+                setTotalPoints((prev) => prev + item.Points);
+            } else {
+                await removeFoundItem(userId, item.Id, 'season');
+                setFoundItemIds((prev) => prev.filter((id) => id !== item.Id));
+                setTotalPoints((prev) => prev - item.Points);
+            }
+        } catch (error) {
+            console.error('Error updating found item:', error);
+        }
+    };
 
     const handleTypeChange = (type: EItemTypes) => {
         setSelectedTypes((prev) =>
@@ -88,11 +171,20 @@ export default function Main() {
         setSortBy(sort);
     };
 
+    const handleViewChange = (view: 'not-found' | 'found') => {
+        setCurrentView(view);
+    };
+
     return (
         <main className={styles.main}>
             <div className={styles.left}>
-                <Login />
-                <AuthStatus />
+                <Login totalPoints={totalPoints} />
+                <Progress
+                    currentPoints={totalPoints}
+                    maxPoints={maxPoints}
+                    foundItems={foundItemIds.length}
+                    maxItems={maxItems}
+                />
                 <Filter
                     selectedTypes={selectedTypes}
                     selectedSubTypes={selectedSubTypes}
@@ -100,16 +192,33 @@ export default function Main() {
                     onSubTypeChange={handleSubTypeChange}
                     onSearchChange={handleSearchChange}
                     onSortChange={handleSortChange}
+                    onViewChange={handleViewChange}
                     allItems={items}
+                    currentView={currentView}
                 />
             </div>
             <div className={styles.middle}>
-                {filteredItems.map((item) => (
-                    <Card key={item.Id} Item={item} />
-                ))}
+                {filteredItems.length === 0 ? (
+                    <div className={styles.emptyState}>
+                        <p>
+                            {currentView === 'found'
+                                ? 'No items found yet. Start hunting! 🎯'
+                                : 'All items found! 🎉'}
+                        </p>
+                    </div>
+                ) : (
+                    filteredItems.map((item) => (
+                        <Card
+                            key={item.Id}
+                            Item={item}
+                            onItemFound={handleItemFound}
+                            isFound={foundItemIds.includes(item.Id)}
+                        />
+                    ))
+                )}
             </div>
             <div className={styles.right}>
-                <Highscore />
+                <Highscore currentUserId={userId} />
             </div>
         </main>
     );
