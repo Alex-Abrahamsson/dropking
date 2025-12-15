@@ -61,7 +61,7 @@ export default function Card({ Item, onItemFound, isFound }: ICard) {
             case EItemTypes.UniqueItem:
                 return '1px solid gold';
             default:
-                return '1px solid gray';
+                return '1px solid blue';
         }
     };
 
