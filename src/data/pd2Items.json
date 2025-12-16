@@ -1,0 +1,4139 @@
+[
+    {
+        "Id":  1,
+        "ItemName":  "Zod Rune",
+        "ItemType":  "Rune",
+        "Points":  2161,
+        "SubType":  "None"
+    },
+    {
+        "Id":  2,
+        "ItemName":  "Cham Rune",
+        "ItemType":  "Rune",
+        "Points":  828,
+        "SubType":  "None"
+    },
+    {
+        "Id":  3,
+        "ItemName":  "Ber Rune",
+        "ItemType":  "Rune",
+        "Points":  616,
+        "SubType":  "None"
+    },
+    {
+        "Id":  4,
+        "ItemName":  "Jah Rune",
+        "ItemType":  "Rune",
+        "Points":  552,
+        "SubType":  "None"
+    },
+    {
+        "Id":  5,
+        "ItemName":  "Lo Rune",
+        "ItemType":  "Rune",
+        "Points":  456,
+        "SubType":  "None"
+    },
+    {
+        "Id":  6,
+        "ItemName":  "Sur Rune",
+        "ItemType":  "Rune",
+        "Points":  411,
+        "SubType":  "None"
+    },
+    {
+        "Id":  7,
+        "ItemName":  "Vex Rune",
+        "ItemType":  "Rune",
+        "Points":  320,
+        "SubType":  "None"
+    },
+    {
+        "Id":  8,
+        "ItemName":  "Ohm Rune",
+        "ItemType":  "Rune",
+        "Points":  304,
+        "SubType":  "None"
+    },
+    {
+        "Id":  9,
+        "ItemName":  "Ist Rune",
+        "ItemType":  "Rune",
+        "Points":  226,
+        "SubType":  "None"
+    },
+    {
+        "Id":  10,
+        "ItemName":  "Gul Rune",
+        "ItemType":  "Rune",
+        "Points":  213,
+        "SubType":  "None"
+    },
+    {
+        "Id":  11,
+        "ItemName":  "Um Rune",
+        "ItemType":  "Rune",
+        "Points":  154,
+        "SubType":  "None"
+    },
+    {
+        "Id":  12,
+        "ItemName":  "Mal Rune",
+        "ItemType":  "Rune",
+        "Points":  150,
+        "SubType":  "None"
+    },
+    {
+        "Id":  13,
+        "ItemName":  "Pul Rune",
+        "ItemType":  "Rune",
+        "Points":  102,
+        "SubType":  "None"
+    },
+    {
+        "Id":  14,
+        "ItemName":  "Lem Rune",
+        "ItemType":  "Rune",
+        "Points":  78,
+        "SubType":  "None"
+    },
+    {
+        "Id":  15,
+        "ItemName":  "Fal Rune",
+        "ItemType":  "Rune",
+        "Points":  52,
+        "SubType":  "None"
+    },
+    {
+        "Id":  16,
+        "ItemName":  "Ko Rune",
+        "ItemType":  "Rune",
+        "Points":  40,
+        "SubType":  "None"
+    },
+    {
+        "Id":  17,
+        "ItemName":  "Eld Rune",
+        "ItemType":  "Rune",
+        "Points":  27,
+        "SubType":  "None"
+    },
+    {
+        "Id":  18,
+        "ItemName":  "Lum Rune",
+        "ItemType":  "Rune",
+        "Points":  27,
+        "SubType":  "None"
+    },
+    {
+        "Id":  19,
+        "ItemName":  "Io Rune",
+        "ItemType":  "Rune",
+        "Points":  21,
+        "SubType":  "None"
+    },
+    {
+        "Id":  20,
+        "ItemName":  "El Rune",
+        "ItemType":  "Rune",
+        "Points":  18,
+        "SubType":  "None"
+    },
+    {
+        "Id":  21,
+        "ItemName":  "Hel Rune",
+        "ItemType":  "Rune",
+        "Points":  14,
+        "SubType":  "None"
+    },
+    {
+        "Id":  22,
+        "ItemName":  "Dol Rune",
+        "ItemType":  "Rune",
+        "Points":  12,
+        "SubType":  "None"
+    },
+    {
+        "Id":  23,
+        "ItemName":  "Nef Rune",
+        "ItemType":  "Rune",
+        "Points":  11,
+        "SubType":  "None"
+    },
+    {
+        "Id":  24,
+        "ItemName":  "Shael Rune",
+        "ItemType":  "Rune",
+        "Points":  8,
+        "SubType":  "None"
+    },
+    {
+        "Id":  25,
+        "ItemName":  "Ith Rune",
+        "ItemType":  "Rune",
+        "Points":  8,
+        "SubType":  "None"
+    },
+    {
+        "Id":  26,
+        "ItemName":  "Tir Rune",
+        "ItemType":  "Rune",
+        "Points":  7,
+        "SubType":  "None"
+    },
+    {
+        "Id":  27,
+        "ItemName":  "Sol Rune",
+        "ItemType":  "Rune",
+        "Points":  7,
+        "SubType":  "None"
+    },
+    {
+        "Id":  28,
+        "ItemName":  "Thul Rune",
+        "ItemType":  "Rune",
+        "Points":  5,
+        "SubType":  "None"
+    },
+    {
+        "Id":  29,
+        "ItemName":  "Ral Rune",
+        "ItemType":  "Rune",
+        "Points":  5,
+        "SubType":  "None"
+    },
+    {
+        "Id":  30,
+        "ItemName":  "Eth Rune",
+        "ItemType":  "Rune",
+        "Points":  5,
+        "SubType":  "None"
+    },
+    {
+        "Id":  31,
+        "ItemName":  "Amn Rune",
+        "ItemType":  "Rune",
+        "Points":  5,
+        "SubType":  "None"
+    },
+    {
+        "Id":  32,
+        "ItemName":  "Tal Rune",
+        "ItemType":  "Rune",
+        "Points":  4,
+        "SubType":  "None"
+    },
+    {
+        "Id":  33,
+        "ItemName":  "Ort Rune",
+        "ItemType":  "Rune",
+        "Points":  4,
+        "SubType":  "None"
+    },
+    {
+        "Id":  34,
+        "ItemName":  "The Gnasher",
+        "ItemType":  "Unique",
+        "Points":  10780,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  35,
+        "ItemName":  "Deathspade",
+        "ItemType":  "Unique",
+        "Points":  950,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  36,
+        "ItemName":  "Bladebone",
+        "ItemType":  "Unique",
+        "Points":  581,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  37,
+        "ItemName":  "Skull Splitter",
+        "ItemType":  "Unique",
+        "Points":  595,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  38,
+        "ItemName":  "Rakescar",
+        "ItemType":  "Unique",
+        "Points":  826,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  39,
+        "ItemName":  "Axe of Fechmar",
+        "ItemType":  "Unique",
+        "Points":  2305,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  40,
+        "ItemName":  "Goreshovel",
+        "ItemType":  "Unique",
+        "Points":  716,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  41,
+        "ItemName":  "The Chieftain",
+        "ItemType":  "Unique",
+        "Points":  610,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  42,
+        "ItemName":  "Brainhew",
+        "ItemType":  "Unique",
+        "Points":  794,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  43,
+        "ItemName":  "Humongous",
+        "ItemType":  "Unique",
+        "Points":  830,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  44,
+        "ItemName":  "Coldkill",
+        "ItemType":  "Unique",
+        "Points":  1292,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  45,
+        "ItemName":  "Butcher\u0027s Pupil",
+        "ItemType":  "Unique",
+        "Points":  1243,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  46,
+        "ItemName":  "Islestrike",
+        "ItemType":  "Unique",
+        "Points":  1739,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  47,
+        "ItemName":  "Pompeii\u0027s Wrath",
+        "ItemType":  "Unique",
+        "Points":  1903,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  48,
+        "ItemName":  "Guardian Naga",
+        "ItemType":  "Unique",
+        "Points":  1880,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  49,
+        "ItemName":  "Warlord\u0027s Trust",
+        "ItemType":  "Unique",
+        "Points":  1243,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  50,
+        "ItemName":  "Spellsteel",
+        "ItemType":  "Unique",
+        "Points":  1734,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  51,
+        "ItemName":  "Stormrider",
+        "ItemType":  "Unique",
+        "Points":  2238,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  52,
+        "ItemName":  "Boneslayer Blade",
+        "ItemType":  "Unique",
+        "Points":  1869,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  53,
+        "ItemName":  "The Minotaur",
+        "ItemType":  "Unique",
+        "Points":  1823,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  54,
+        "ItemName":  "Razor\u0027s Edge",
+        "ItemType":  "Unique",
+        "Points":  1668,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  55,
+        "ItemName":  "Rune Master",
+        "ItemType":  "Unique",
+        "Points":  1519,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  56,
+        "ItemName":  "Cranebeak",
+        "ItemType":  "Unique",
+        "Points":  2201,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  57,
+        "ItemName":  "Death Cleaver",
+        "ItemType":  "Unique",
+        "Points":  37714,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  58,
+        "ItemName":  "Ethereal Edge",
+        "ItemType":  "Unique",
+        "Points":  1176,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  59,
+        "ItemName":  "Hellslayer",
+        "ItemType":  "Unique",
+        "Points":  1220,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  60,
+        "ItemName":  "Messerschmidt\u0027s Reaver",
+        "ItemType":  "Unique",
+        "Points":  2996,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  61,
+        "ItemName":  "Executioner\u0027s Justice",
+        "ItemType":  "Unique",
+        "Points":  37714,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  62,
+        "ItemName":  "Felloak",
+        "ItemType":  "Unique",
+        "Points":  10711,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  63,
+        "ItemName":  "Stoutnail",
+        "ItemType":  "Unique",
+        "Points":  2290,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  64,
+        "ItemName":  "Crushflange",
+        "ItemType":  "Unique",
+        "Points":  953,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  65,
+        "ItemName":  "Bloodrise",
+        "ItemType":  "Unique",
+        "Points":  581,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  66,
+        "ItemName":  "The General\u0027s Tan Do Li Ga",
+        "ItemType":  "Unique",
+        "Points":  595,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  67,
+        "ItemName":  "Ironstone",
+        "ItemType":  "Unique",
+        "Points":  826,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  68,
+        "ItemName":  "Bonesnap",
+        "ItemType":  "Unique",
+        "Points":  599,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  69,
+        "ItemName":  "Steeldriver",
+        "ItemType":  "Unique",
+        "Points":  1296,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  70,
+        "ItemName":  "Dark Clan Crusher",
+        "ItemType":  "Unique",
+        "Points":  939,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  71,
+        "ItemName":  "Fleshrender",
+        "ItemType":  "Unique",
+        "Points":  1296,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  72,
+        "ItemName":  "Sureshrill Frost",
+        "ItemType":  "Unique",
+        "Points":  1247,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  73,
+        "ItemName":  "Moonfall",
+        "ItemType":  "Unique",
+        "Points":  1739,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  74,
+        "ItemName":  "Baezil\u0027s Vortex",
+        "ItemType":  "Unique",
+        "Points":  1903,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  75,
+        "ItemName":  "Earthshaker",
+        "ItemType":  "Unique",
+        "Points":  1880,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  76,
+        "ItemName":  "Bloodtree Stump",
+        "ItemType":  "Unique",
+        "Points":  1915,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  77,
+        "ItemName":  "The Gavel of Pain",
+        "ItemType":  "Unique",
+        "Points":  1663,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  78,
+        "ItemName":  "Nord\u0027s Tenderizer",
+        "ItemType":  "Unique",
+        "Points":  1659,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  79,
+        "ItemName":  "Demon Limb",
+        "ItemType":  "Unique",
+        "Points":  1297,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  80,
+        "ItemName":  "Baranar\u0027s Star",
+        "ItemType":  "Unique",
+        "Points":  1519,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  81,
+        "ItemName":  "Horizon\u0027s Tornado",
+        "ItemType":  "Unique",
+        "Points":  3188,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  82,
+        "ItemName":  "Stormlash",
+        "ItemType":  "Unique",
+        "Points":  15940,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  83,
+        "ItemName":  "Stone Crusher",
+        "ItemType":  "Unique",
+        "Points":  3745,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  84,
+        "ItemName":  "Schaefer\u0027s Hammer",
+        "ItemType":  "Unique",
+        "Points":  14981,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  85,
+        "ItemName":  "Windhammer",
+        "ItemType":  "Unique",
+        "Points":  1167,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  86,
+        "ItemName":  "Earth Shifter",
+        "ItemType":  "Unique",
+        "Points":  75429,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  87,
+        "ItemName":  "The Cranium Basher",
+        "ItemType":  "Unique",
+        "Points":  75429,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  88,
+        "ItemName":  "Rixot\u0027s Keen",
+        "ItemType":  "Unique",
+        "Points":  10711,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  89,
+        "ItemName":  "Blood Crescent",
+        "ItemType":  "Unique",
+        "Points":  2297,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  90,
+        "ItemName":  "Skewer of Krintiz",
+        "ItemType":  "Unique",
+        "Points":  953,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  91,
+        "ItemName":  "Gleamscythe",
+        "ItemType":  "Unique",
+        "Points":  713,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  92,
+        "ItemName":  "Griswold\u0027s Edge",
+        "ItemType":  "Unique",
+        "Points":  585,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  93,
+        "ItemName":  "Hellplague",
+        "ItemType":  "Unique",
+        "Points":  597,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  94,
+        "ItemName":  "Culwen\u0027s Point",
+        "ItemType":  "Unique",
+        "Points":  830,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  95,
+        "ItemName":  "Shadowfang",
+        "ItemType":  "Unique",
+        "Points":  711,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  96,
+        "ItemName":  "Soulflay",
+        "ItemType":  "Unique",
+        "Points":  610,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  97,
+        "ItemName":  "Kinemil\u0027s Awl",
+        "ItemType":  "Unique",
+        "Points":  599,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  98,
+        "ItemName":  "Blacktongue",
+        "ItemType":  "Unique",
+        "Points":  796,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  99,
+        "ItemName":  "Ripsaw",
+        "ItemType":  "Unique",
+        "Points":  830,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  100,
+        "ItemName":  "The Patriarch",
+        "ItemType":  "Unique",
+        "Points":  1300,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  101,
+        "ItemName":  "Bloodletter",
+        "ItemType":  "Unique",
+        "Points":  939,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  102,
+        "ItemName":  "Coldsteel Eye",
+        "ItemType":  "Unique",
+        "Points":  1903,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  103,
+        "ItemName":  "Hexfire",
+        "ItemType":  "Unique",
+        "Points":  1247,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  104,
+        "ItemName":  "Blade of Ali Baba",
+        "ItemType":  "Unique",
+        "Points":  1729,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  105,
+        "ItemName":  "Ginther\u0027s Rift",
+        "ItemType":  "Unique",
+        "Points":  1729,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  106,
+        "ItemName":  "Headstriker",
+        "ItemType":  "Unique",
+        "Points":  2225,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  107,
+        "ItemName":  "Plague Bearer",
+        "ItemType":  "Unique",
+        "Points":  1909,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  108,
+        "ItemName":  "The Atlantean",
+        "ItemType":  "Unique",
+        "Points":  1813,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  109,
+        "ItemName":  "Crainte Vomir",
+        "ItemType":  "Unique",
+        "Points":  1729,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  110,
+        "ItemName":  "Bing Sz Wang",
+        "ItemType":  "Unique",
+        "Points":  2238,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  111,
+        "ItemName":  "The Vile Husk",
+        "ItemType":  "Unique",
+        "Points":  1915,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  112,
+        "ItemName":  "Cloudcrack",
+        "ItemType":  "Unique",
+        "Points":  1880,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  113,
+        "ItemName":  "Todesfaelle Flamme",
+        "ItemType":  "Unique",
+        "Points":  1813,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  114,
+        "ItemName":  "Swordguard",
+        "ItemType":  "Unique",
+        "Points":  1668,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  115,
+        "ItemName":  "Djinn Slayer",
+        "ItemType":  "Unique",
+        "Points":  1518,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  116,
+        "ItemName":  "Bloodmoon",
+        "ItemType":  "Unique",
+        "Points":  1526,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  117,
+        "ItemName":  "Lightsabre",
+        "ItemType":  "Unique",
+        "Points":  1464,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  118,
+        "ItemName":  "Azurewrath",
+        "ItemType":  "Unique",
+        "Points":  7318,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  119,
+        "ItemName":  "Frostwind",
+        "ItemType":  "Unique",
+        "Points":  2996,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  120,
+        "ItemName":  "Hadriel\u0027s Hand",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  121,
+        "ItemName":  "Leoric\u0027s Mithril Bane",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  122,
+        "ItemName":  "Flamebellow",
+        "ItemType":  "Unique",
+        "Points":  1523,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  123,
+        "ItemName":  "Doombringer",
+        "ItemType":  "Unique",
+        "Points":  2663,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  124,
+        "ItemName":  "Odium",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  125,
+        "ItemName":  "The Grandfather",
+        "ItemType":  "Unique",
+        "Points":  37714,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  126,
+        "ItemName":  "Gull",
+        "ItemType":  "Unique",
+        "Points":  10780,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  127,
+        "ItemName":  "The Diggler",
+        "ItemType":  "Unique",
+        "Points":  956,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  128,
+        "ItemName":  "The Jade Tan Do",
+        "ItemType":  "Unique",
+        "Points":  610,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  129,
+        "ItemName":  "Spectral Shard",
+        "ItemType":  "Unique",
+        "Points":  794,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  130,
+        "ItemName":  "Spineripper",
+        "ItemType":  "Unique",
+        "Points":  1292,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  131,
+        "ItemName":  "Heart Carver",
+        "ItemType":  "Unique",
+        "Points":  1251,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  132,
+        "ItemName":  "Blackbog\u0027s Sharp",
+        "ItemType":  "Unique",
+        "Points":  2238,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  133,
+        "ItemName":  "Stormspike",
+        "ItemType":  "Unique",
+        "Points":  1869,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  134,
+        "ItemName":  "Wizardspike",
+        "ItemType":  "Unique",
+        "Points":  1067,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  135,
+        "ItemName":  "Shatterblade",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  136,
+        "ItemName":  "Fleshripper",
+        "ItemType":  "Unique",
+        "Points":  3004,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  137,
+        "ItemName":  "Ghostflame",
+        "ItemType":  "Unique",
+        "Points":  37714,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  138,
+        "ItemName":  "Deathbit",
+        "ItemType":  "Unique",
+        "Points":  1292,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  139,
+        "ItemName":  "The Scalper",
+        "ItemType":  "Unique",
+        "Points":  1243,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  140,
+        "ItemName":  "Achilles Strike",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  141,
+        "ItemName":  "Gimmershred",
+        "ItemType":  "Unique",
+        "Points":  1294,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  142,
+        "ItemName":  "Warshrike",
+        "ItemType":  "Unique",
+        "Points":  2663,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  143,
+        "ItemName":  "Lacerator",
+        "ItemType":  "Unique",
+        "Points":  2207,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  144,
+        "ItemName":  "Demon\u0027s Arch",
+        "ItemType":  "Unique",
+        "Points":  1523,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  145,
+        "ItemName":  "Wraith Flight",
+        "ItemType":  "Unique",
+        "Points":  2201,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  146,
+        "ItemName":  "Gargoyle\u0027s Bite",
+        "ItemType":  "Unique",
+        "Points":  37714,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  147,
+        "ItemName":  "The Dragon Chang",
+        "ItemType":  "Unique",
+        "Points":  2297,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  148,
+        "ItemName":  "Razortine",
+        "ItemType":  "Unique",
+        "Points":  956,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  149,
+        "ItemName":  "Bloodthief",
+        "ItemType":  "Unique",
+        "Points":  608,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  150,
+        "ItemName":  "Lance of Yaggai",
+        "ItemType":  "Unique",
+        "Points":  597,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  151,
+        "ItemName":  "The Tannr Gorerod",
+        "ItemType":  "Unique",
+        "Points":  796,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  152,
+        "ItemName":  "The Impaler",
+        "ItemType":  "Unique",
+        "Points":  1300,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  153,
+        "ItemName":  "Kelpie Snare",
+        "ItemType":  "Unique",
+        "Points":  1251,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  154,
+        "ItemName":  "Soulfeast Tine",
+        "ItemType":  "Unique",
+        "Points":  2232,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  155,
+        "ItemName":  "Hone Sundan",
+        "ItemType":  "Unique",
+        "Points":  1909,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  156,
+        "ItemName":  "Spire of Honor",
+        "ItemType":  "Unique",
+        "Points":  1874,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  157,
+        "ItemName":  "Arioc\u0027s Needle",
+        "ItemType":  "Unique",
+        "Points":  1067,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  158,
+        "ItemName":  "Viperfork",
+        "ItemType":  "Unique",
+        "Points":  1223,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  159,
+        "ItemName":  "Uldyssian\u0027s Awakening",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  160,
+        "ItemName":  "Steel Pillar",
+        "ItemType":  "Unique",
+        "Points":  37714,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  161,
+        "ItemName":  "Dimoak\u0027s Hew",
+        "ItemType":  "Unique",
+        "Points":  2297,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  162,
+        "ItemName":  "Steelgoad",
+        "ItemType":  "Unique",
+        "Points":  713,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  163,
+        "ItemName":  "Soul Harvest",
+        "ItemType":  "Unique",
+        "Points":  585,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  164,
+        "ItemName":  "The Battlebranch",
+        "ItemType":  "Unique",
+        "Points":  599,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  165,
+        "ItemName":  "Woestave",
+        "ItemType":  "Unique",
+        "Points":  937,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  166,
+        "ItemName":  "The Grim Reaper",
+        "ItemType":  "Unique",
+        "Points":  1243,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  167,
+        "ItemName":  "The Meat Scraper",
+        "ItemType":  "Unique",
+        "Points":  1300,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  168,
+        "ItemName":  "Blackleach Blade",
+        "ItemType":  "Unique",
+        "Points":  1729,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  169,
+        "ItemName":  "Athena\u0027s Wrath",
+        "ItemType":  "Unique",
+        "Points":  2225,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  170,
+        "ItemName":  "Pierre Tombale Couant",
+        "ItemType":  "Unique",
+        "Points":  1247,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  171,
+        "ItemName":  "Husoldal Evo",
+        "ItemType":  "Unique",
+        "Points":  1823,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  172,
+        "ItemName":  "Grim\u0027s Burning Dead",
+        "ItemType":  "Unique",
+        "Points":  1290,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  173,
+        "ItemName":  "Bonehew",
+        "ItemType":  "Unique",
+        "Points":  1074,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  174,
+        "ItemName":  "The Reaper\u0027s Toll",
+        "ItemType":  "Unique",
+        "Points":  1523,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  175,
+        "ItemName":  "Tomb Reaver",
+        "ItemType":  "Unique",
+        "Points":  2201,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  176,
+        "ItemName":  "Stormspire",
+        "ItemType":  "Unique",
+        "Points":  37714,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  177,
+        "ItemName":  "Pluckeye",
+        "ItemType":  "Unique",
+        "Points":  10711,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  178,
+        "ItemName":  "Witherstring",
+        "ItemType":  "Unique",
+        "Points":  2297,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  179,
+        "ItemName":  "Raven Claw",
+        "ItemType":  "Unique",
+        "Points":  953,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  180,
+        "ItemName":  "Rogue\u0027s Bow",
+        "ItemType":  "Unique",
+        "Points":  716,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  181,
+        "ItemName":  "Stormstrike",
+        "ItemType":  "Unique",
+        "Points":  612,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  182,
+        "ItemName":  "Wizendraw",
+        "ItemType":  "Unique",
+        "Points":  794,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  183,
+        "ItemName":  "Hellclap",
+        "ItemType":  "Unique",
+        "Points":  830,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  184,
+        "ItemName":  "Blastbark",
+        "ItemType":  "Unique",
+        "Points":  1292,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  185,
+        "ItemName":  "Skystrike",
+        "ItemType":  "Unique",
+        "Points":  939,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  186,
+        "ItemName":  "Riphook",
+        "ItemType":  "Unique",
+        "Points":  1300,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  187,
+        "ItemName":  "Kuko Shakaku",
+        "ItemType":  "Unique",
+        "Points":  1247,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  188,
+        "ItemName":  "Endlesshail",
+        "ItemType":  "Unique",
+        "Points":  1739,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  189,
+        "ItemName":  "Witchwild String",
+        "ItemType":  "Unique",
+        "Points":  1903,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  190,
+        "ItemName":  "Cliffkiller",
+        "ItemType":  "Unique",
+        "Points":  1869,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  191,
+        "ItemName":  "Magewrath",
+        "ItemType":  "Unique",
+        "Points":  1813,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  192,
+        "ItemName":  "Goldstrike Arch",
+        "ItemType":  "Unique",
+        "Points":  1659,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  193,
+        "ItemName":  "Crackleshot",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  194,
+        "ItemName":  "Eaglehorn",
+        "ItemType":  "Unique",
+        "Points":  2663,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  195,
+        "ItemName":  "Widowmaker",
+        "ItemType":  "Unique",
+        "Points":  2207,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  196,
+        "ItemName":  "Windforce",
+        "ItemType":  "Unique",
+        "Points":  37714,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  197,
+        "ItemName":  "Leadcrow",
+        "ItemType":  "Unique",
+        "Points":  2305,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  198,
+        "ItemName":  "Ichorsting",
+        "ItemType":  "Unique",
+        "Points":  585,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  199,
+        "ItemName":  "Hellcast",
+        "ItemType":  "Unique",
+        "Points":  796,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  200,
+        "ItemName":  "Doomslinger",
+        "ItemType":  "Unique",
+        "Points":  1300,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  201,
+        "ItemName":  "Langer Briser",
+        "ItemType":  "Unique",
+        "Points":  1243,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  202,
+        "ItemName":  "Pus Spitter",
+        "ItemType":  "Unique",
+        "Points":  2225,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  203,
+        "ItemName":  "Buriza-Do Kyanon",
+        "ItemType":  "Unique",
+        "Points":  1874,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  204,
+        "ItemName":  "Demon Machine",
+        "ItemType":  "Unique",
+        "Points":  1668,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  205,
+        "ItemName":  "Gut Siphon",
+        "ItemType":  "Unique",
+        "Points":  3013,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  206,
+        "ItemName":  "Hellrack",
+        "ItemType":  "Unique",
+        "Points":  1226,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  207,
+        "ItemName":  "Knell Striker",
+        "ItemType":  "Unique",
+        "Points":  32339,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  208,
+        "ItemName":  "Rusthandle",
+        "ItemType":  "Unique",
+        "Points":  1755,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  209,
+        "ItemName":  "Stormeye",
+        "ItemType":  "Unique",
+        "Points":  1798,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  210,
+        "ItemName":  "Zakarum\u0027s Hand",
+        "ItemType":  "Unique",
+        "Points":  3876,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  211,
+        "ItemName":  "The Fetid Sprinkler",
+        "ItemType":  "Unique",
+        "Points":  6676,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  212,
+        "ItemName":  "Hand of Blessed Light",
+        "ItemType":  "Unique",
+        "Points":  5744,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  213,
+        "ItemName":  "Heaven\u0027s Light",
+        "ItemType":  "Unique",
+        "Points":  9133,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  214,
+        "ItemName":  "The Redeemer",
+        "ItemType":  "Unique",
+        "Points":  9133,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  215,
+        "ItemName":  "Akarat\u0027s Devotion",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  216,
+        "ItemName":  "Astreon\u0027s Iron Ward",
+        "ItemType":  "Unique",
+        "Points":  113144,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  217,
+        "ItemName":  "Bane Ash",
+        "ItemType":  "Unique",
+        "Points":  32132,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  218,
+        "ItemName":  "Serpent Lord",
+        "ItemType":  "Unique",
+        "Points":  2860,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  219,
+        "ItemName":  "Spire of Lazarus",
+        "ItemType":  "Unique",
+        "Points":  2147,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  220,
+        "ItemName":  "The Salamander",
+        "ItemType":  "Unique",
+        "Points":  1830,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  221,
+        "ItemName":  "The Iron Jang Bong",
+        "ItemType":  "Unique",
+        "Points":  2388,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  222,
+        "ItemName":  "Razorswitch",
+        "ItemType":  "Unique",
+        "Points":  2818,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  223,
+        "ItemName":  "Ribcracker",
+        "ItemType":  "Unique",
+        "Points":  3740,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  224,
+        "ItemName":  "Chromatic Ire",
+        "ItemType":  "Unique",
+        "Points":  5201,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  225,
+        "ItemName":  "Warpspear",
+        "ItemType":  "Unique",
+        "Points":  6715,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  226,
+        "ItemName":  "Skull Collector",
+        "ItemType":  "Unique",
+        "Points":  5623,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  227,
+        "ItemName":  "Brimstone Rain",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  228,
+        "ItemName":  "Ondal\u0027s Wisdom",
+        "ItemType":  "Unique",
+        "Points":  3669,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  229,
+        "ItemName":  "Mang Song\u0027s Lesson",
+        "ItemType":  "Unique",
+        "Points":  113144,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  230,
+        "ItemName":  "Torch of Iro",
+        "ItemType":  "Unique",
+        "Points":  32236,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  231,
+        "ItemName":  "Maelstrom",
+        "ItemType":  "Unique",
+        "Points":  2147,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  232,
+        "ItemName":  "Gravenspine",
+        "ItemType":  "Unique",
+        "Points":  1836,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  233,
+        "ItemName":  "Ume\u0027s Lament",
+        "ItemType":  "Unique",
+        "Points":  2484,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  234,
+        "ItemName":  "Suicide Branch",
+        "ItemType":  "Unique",
+        "Points":  3876,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  235,
+        "ItemName":  "Carin Shard",
+        "ItemType":  "Unique",
+        "Points":  5201,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  236,
+        "ItemName":  "Arm of King Leoric",
+        "ItemType":  "Unique",
+        "Points":  5709,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  237,
+        "ItemName":  "Blackhand Key",
+        "ItemType":  "Unique",
+        "Points":  5438,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  238,
+        "ItemName":  "Boneshade",
+        "ItemType":  "Unique",
+        "Points":  3678,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  239,
+        "ItemName":  "Death\u0027s Web",
+        "ItemType":  "Unique",
+        "Points":  113430,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  240,
+        "ItemName":  "Lycander\u0027s Aim",
+        "ItemType":  "Unique",
+        "Points":  3603,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  241,
+        "ItemName":  "Blood Raven\u0027s Charge",
+        "ItemType":  "Unique",
+        "Points":  3172,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  242,
+        "ItemName":  "Ebonbane",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  243,
+        "ItemName":  "Lycander\u0027s Flank",
+        "ItemType":  "Unique",
+        "Points":  3480,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  244,
+        "ItemName":  "Stoneraven",
+        "ItemType":  "Unique",
+        "Points":  2868,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  245,
+        "ItemName":  "Zerae\u0027s Resolve",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  246,
+        "ItemName":  "True Silver",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  247,
+        "ItemName":  "Titan\u0027s Revenge",
+        "ItemType":  "Unique",
+        "Points":  2439,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  248,
+        "ItemName":  "Thunderstroke",
+        "ItemType":  "Unique",
+        "Points":  2208,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  249,
+        "ItemName":  "Mage Slayer",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  250,
+        "ItemName":  "Bartuc\u0027s Cut-Throat",
+        "ItemType":  "Unique",
+        "Points":  1740,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  251,
+        "ItemName":  "Stalker\u0027s Cull",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  252,
+        "ItemName":  "Jade Talon",
+        "ItemType":  "Unique",
+        "Points":  1434,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  253,
+        "ItemName":  "Firelizard\u0027s Talons",
+        "ItemType":  "Unique",
+        "Points":  2464,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  254,
+        "ItemName":  "Shadow Killer",
+        "ItemType":  "Unique",
+        "Points":  1135,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  255,
+        "ItemName":  "Whispering Mirage",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  256,
+        "ItemName":  "Aidan\u0027s Scar",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  257,
+        "ItemName":  "Tempest",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  258,
+        "ItemName":  "Skorn",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  259,
+        "ItemName":  "The Oculus",
+        "ItemType":  "Unique",
+        "Points":  3480,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  260,
+        "ItemName":  "Eschuta\u0027s Temper",
+        "ItemType":  "Unique",
+        "Points":  2175,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  261,
+        "ItemName":  "Death\u0027s Fathom",
+        "ItemType":  "Unique",
+        "Points":  69178,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  262,
+        "ItemName":  "Armageddon\u0027s Blade",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  263,
+        "ItemName":  "Biggin\u0027s Bonnet",
+        "ItemType":  "Unique",
+        "Points":  16661,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  264,
+        "ItemName":  "Tarnhelm",
+        "ItemType":  "Unique",
+        "Points":  2489,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  265,
+        "ItemName":  "Coif of Glory",
+        "ItemType":  "Unique",
+        "Points":  1152,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  266,
+        "ItemName":  "Duskdeep",
+        "ItemType":  "Unique",
+        "Points":  585,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  267,
+        "ItemName":  "The Face of Horror",
+        "ItemType":  "Unique",
+        "Points":  970,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  268,
+        "ItemName":  "Wormskull",
+        "ItemType":  "Unique",
+        "Points":  1156,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  269,
+        "ItemName":  "Howltusk",
+        "ItemType":  "Unique",
+        "Points":  1160,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  270,
+        "ItemName":  "Undead Crown",
+        "ItemType":  "Unique",
+        "Points":  883,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  271,
+        "ItemName":  "Peasant Crown",
+        "ItemType":  "Unique",
+        "Points":  1447,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  272,
+        "ItemName":  "Rockstopper",
+        "ItemType":  "Unique",
+        "Points":  2339,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  273,
+        "ItemName":  "Stealskull",
+        "ItemType":  "Unique",
+        "Points":  2798,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  274,
+        "ItemName":  "Darksight Helm",
+        "ItemType":  "Unique",
+        "Points":  3037,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  275,
+        "ItemName":  "Blackhorn\u0027s Face",
+        "ItemType":  "Unique",
+        "Points":  1378,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  276,
+        "ItemName":  "Vampire Gaze",
+        "ItemType":  "Unique",
+        "Points":  3951,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  277,
+        "ItemName":  "Valkyrie Wing",
+        "ItemType":  "Unique",
+        "Points":  3962,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  278,
+        "ItemName":  "Crown of Thieves",
+        "ItemType":  "Unique",
+        "Points":  1642,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  279,
+        "ItemName":  "Harlequin Crest",
+        "ItemType":  "Unique",
+        "Points":  1910,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  280,
+        "ItemName":  "Steel Shade",
+        "ItemType":  "Unique",
+        "Points":  3103,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  281,
+        "ItemName":  "Andariel\u0027s Visage",
+        "ItemType":  "Unique",
+        "Points":  2014,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  282,
+        "ItemName":  "Giant Skull",
+        "ItemType":  "Unique",
+        "Points":  5240,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  283,
+        "ItemName":  "Veil of Steel",
+        "ItemType":  "Unique",
+        "Points":  5869,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  284,
+        "ItemName":  "Nightwing\u0027s Veil",
+        "ItemType":  "Unique",
+        "Points":  5869,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  285,
+        "ItemName":  "Crown of Ages",
+        "ItemType":  "Unique",
+        "Points":  46096,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  286,
+        "ItemName":  "Overlord\u0027s Helm",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  287,
+        "ItemName":  "Kira\u0027s Guardian",
+        "ItemType":  "Unique",
+        "Points":  2315,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  288,
+        "ItemName":  "Griffon\u0027s Eye",
+        "ItemType":  "Unique",
+        "Points":  46096,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  289,
+        "ItemName":  "Cyclopean Roar",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  290,
+        "ItemName":  "Wildspeaker",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  291,
+        "ItemName":  "Arreat\u0027s Face",
+        "ItemType":  "Unique",
+        "Points":  5287,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  292,
+        "ItemName":  "Wolfhowl",
+        "ItemType":  "Unique",
+        "Points":  3435,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  293,
+        "ItemName":  "Demonhorn\u0027s Edge",
+        "ItemType":  "Unique",
+        "Points":  3738,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  294,
+        "ItemName":  "Halaberd\u0027s Reign",
+        "ItemType":  "Unique",
+        "Points":  5423,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  295,
+        "ItemName":  "Raekor\u0027s Virtue",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  296,
+        "ItemName":  "Quetzalcoatl",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  297,
+        "ItemName":  "Fenris",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  298,
+        "ItemName":  "Jalal\u0027s Mane",
+        "ItemType":  "Unique",
+        "Points":  3129,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  299,
+        "ItemName":  "Cerebus\u0027 Bite",
+        "ItemType":  "Unique",
+        "Points":  5215,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  300,
+        "ItemName":  "Denmother",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  301,
+        "ItemName":  "Ravenlore",
+        "ItemType":  "Unique",
+        "Points":  9596,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  302,
+        "ItemName":  "Spirit Keeper",
+        "ItemType":  "Unique",
+        "Points":  6742,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  303,
+        "ItemName":  "Ursa\u0027s Nightmare",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  304,
+        "ItemName":  "Greyform",
+        "ItemType":  "Unique",
+        "Points":  16661,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  305,
+        "ItemName":  "Blinkbat\u0027s Form",
+        "ItemType":  "Unique",
+        "Points":  16769,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  306,
+        "ItemName":  "The Centurion",
+        "ItemType":  "Unique",
+        "Points":  2489,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  307,
+        "ItemName":  "Twitchthroe",
+        "ItemType":  "Unique",
+        "Points":  1090,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  308,
+        "ItemName":  "Darkglow",
+        "ItemType":  "Unique",
+        "Points":  1152,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  309,
+        "ItemName":  "Hawkmail",
+        "ItemType":  "Unique",
+        "Points":  581,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  310,
+        "ItemName":  "Sparking Mail",
+        "ItemType":  "Unique",
+        "Points":  585,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  311,
+        "ItemName":  "Venom Ward",
+        "ItemType":  "Unique",
+        "Points":  306,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  312,
+        "ItemName":  "Iceblink",
+        "ItemType":  "Unique",
+        "Points":  974,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  313,
+        "ItemName":  "Boneflesh",
+        "ItemType":  "Unique",
+        "Points":  1163,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  314,
+        "ItemName":  "Rockfleece",
+        "ItemType":  "Unique",
+        "Points":  881,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  315,
+        "ItemName":  "Rattlecage",
+        "ItemType":  "Unique",
+        "Points":  920,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  316,
+        "ItemName":  "Heavenly Garb",
+        "ItemType":  "Unique",
+        "Points":  1451,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  317,
+        "ItemName":  "Goldskin",
+        "ItemType":  "Unique",
+        "Points":  2339,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  318,
+        "ItemName":  "Silks of the Victor",
+        "ItemType":  "Unique",
+        "Points":  2782,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  319,
+        "ItemName":  "Spirit Shroud",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  320,
+        "ItemName":  "Skin of the Vipermagi",
+        "ItemType":  "Unique",
+        "Points":  1456,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  321,
+        "ItemName":  "Skin of the Flayed One",
+        "ItemType":  "Unique",
+        "Points":  2339,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  322,
+        "ItemName":  "Iron Pelt",
+        "ItemType":  "Unique",
+        "Points":  2782,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  323,
+        "ItemName":  "Spirit Forge",
+        "ItemType":  "Unique",
+        "Points":  2798,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  324,
+        "ItemName":  "Crow Caw",
+        "ItemType":  "Unique",
+        "Points":  3018,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  325,
+        "ItemName":  "Shaftstop",
+        "ItemType":  "Unique",
+        "Points":  3037,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  326,
+        "ItemName":  "Duriel\u0027s Shell",
+        "ItemType":  "Unique",
+        "Points":  1375,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  327,
+        "ItemName":  "Skullder\u0027s Ire",
+        "ItemType":  "Unique",
+        "Points":  3940,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  328,
+        "ItemName":  "Guardian Angel",
+        "ItemType":  "Unique",
+        "Points":  2764,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  329,
+        "ItemName":  "Toothrow",
+        "ItemType":  "Unique",
+        "Points":  1642,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  330,
+        "ItemName":  "Atma\u0027s Wail",
+        "ItemType":  "Unique",
+        "Points":  1910,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  331,
+        "ItemName":  "Que-Hegan\u0027s Wisdom",
+        "ItemType":  "Unique",
+        "Points":  1921,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  332,
+        "ItemName":  "Black Hades",
+        "ItemType":  "Unique",
+        "Points":  2760,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  333,
+        "ItemName":  "Corpsemourn",
+        "ItemType":  "Unique",
+        "Points":  1825,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  334,
+        "ItemName":  "Ormus\u0027 Robes",
+        "ItemType":  "Unique",
+        "Points":  1830,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  335,
+        "ItemName":  "The Gladiator\u0027s Bane",
+        "ItemType":  "Unique",
+        "Points":  2315,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  336,
+        "ItemName":  "Wraithskin",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  337,
+        "ItemName":  "Arkaine\u0027s Valor",
+        "ItemType":  "Unique",
+        "Points":  3635,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  338,
+        "ItemName":  "Leviathan",
+        "ItemType":  "Unique",
+        "Points":  2950,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  339,
+        "ItemName":  "Purgatory",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  340,
+        "ItemName":  "Steel Carapace",
+        "ItemType":  "Unique",
+        "Points":  5224,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  341,
+        "ItemName":  "Templar\u0027s Might",
+        "ItemType":  "Unique",
+        "Points":  51857,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  342,
+        "ItemName":  "Tyrael\u0027s Might",
+        "ItemType":  "Unique",
+        "Points":  414860,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  343,
+        "ItemName":  "Dark Abyss",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  344,
+        "ItemName":  "Cage of the Unsullied",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  345,
+        "ItemName":  "Pelta Lunata",
+        "ItemType":  "Unique",
+        "Points":  16661,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  346,
+        "ItemName":  "Umbral Disk",
+        "ItemType":  "Unique",
+        "Points":  2489,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  347,
+        "ItemName":  "Stormguild",
+        "ItemType":  "Unique",
+        "Points":  1152,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  348,
+        "ItemName":  "Swordback Hold",
+        "ItemType":  "Unique",
+        "Points":  1152,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  349,
+        "ItemName":  "Steelclash",
+        "ItemType":  "Unique",
+        "Points":  585,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  350,
+        "ItemName":  "Wall of the Eyeless",
+        "ItemType":  "Unique",
+        "Points":  970,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  351,
+        "ItemName":  "Bverrit Keep",
+        "ItemType":  "Unique",
+        "Points":  1156,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  352,
+        "ItemName":  "The Ward",
+        "ItemType":  "Unique",
+        "Points":  886,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  353,
+        "ItemName":  "Visceratuant",
+        "ItemType":  "Unique",
+        "Points":  1447,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  354,
+        "ItemName":  "Moser\u0027s Blessed Circle",
+        "ItemType":  "Unique",
+        "Points":  2339,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  355,
+        "ItemName":  "Stormchaser",
+        "ItemType":  "Unique",
+        "Points":  2798,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  356,
+        "ItemName":  "Lance Guard",
+        "ItemType":  "Unique",
+        "Points":  2798,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  357,
+        "ItemName":  "Tiamat\u0027s Rebuke",
+        "ItemType":  "Unique",
+        "Points":  3037,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  358,
+        "ItemName":  "Lidless Wall",
+        "ItemType":  "Unique",
+        "Points":  1378,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  359,
+        "ItemName":  "Gerke\u0027s Sanctuary",
+        "ItemType":  "Unique",
+        "Points":  3951,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  360,
+        "ItemName":  "Radament\u0027s Sphere",
+        "ItemType":  "Unique",
+        "Points":  1647,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  361,
+        "ItemName":  "Blackoak Shield",
+        "ItemType":  "Unique",
+        "Points":  2760,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  362,
+        "ItemName":  "Twilight\u0027s Reflection",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  363,
+        "ItemName":  "Spike Thorn",
+        "ItemType":  "Unique",
+        "Points":  3103,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  364,
+        "ItemName":  "Stormshield",
+        "ItemType":  "Unique",
+        "Points":  2327,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  365,
+        "ItemName":  "Head Hunter\u0027s Glory",
+        "ItemType":  "Unique",
+        "Points":  3635,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  366,
+        "ItemName":  "Medusa\u0027s Gaze",
+        "ItemType":  "Unique",
+        "Points":  2935,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  367,
+        "ItemName":  "Spirit Ward",
+        "ItemType":  "Unique",
+        "Points":  5240,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  368,
+        "ItemName":  "Kalan\u0027s Legacy",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  369,
+        "ItemName":  "Homunculus",
+        "ItemType":  "Unique",
+        "Points":  5287,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  370,
+        "ItemName":  "Boneflame",
+        "ItemType":  "Unique",
+        "Points":  5423,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  371,
+        "ItemName":  "Darkforce Spawn",
+        "ItemType":  "Unique",
+        "Points":  84551,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  372,
+        "ItemName":  "Sacred Totem",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  373,
+        "ItemName":  "Martyrdom",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  374,
+        "ItemName":  "Sankekur\u0027s Fall",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  375,
+        "ItemName":  "Herald of Zakarum",
+        "ItemType":  "Unique",
+        "Points":  7564,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  376,
+        "ItemName":  "Alma Negra",
+        "ItemType":  "Unique",
+        "Points":  4323,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  377,
+        "ItemName":  "Dragonscale",
+        "ItemType":  "Unique",
+        "Points":  9596,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  378,
+        "ItemName":  "Skywarden",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  379,
+        "ItemName":  "The Hand of Broc",
+        "ItemType":  "Unique",
+        "Points":  16769,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  380,
+        "ItemName":  "Bloodfist",
+        "ItemType":  "Unique",
+        "Points":  1086,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  381,
+        "ItemName":  "Chance Guards",
+        "ItemType":  "Unique",
+        "Points":  1156,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  382,
+        "ItemName":  "Magefist",
+        "ItemType":  "Unique",
+        "Points":  974,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  383,
+        "ItemName":  "Frostburn",
+        "ItemType":  "Unique",
+        "Points":  712,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  384,
+        "ItemName":  "Venom Grip",
+        "ItemType":  "Unique",
+        "Points":  922,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  385,
+        "ItemName":  "Gravepalm",
+        "ItemType":  "Unique",
+        "Points":  2352,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  386,
+        "ItemName":  "Ghoulhide",
+        "ItemType":  "Unique",
+        "Points":  3018,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  387,
+        "ItemName":  "Lava Gout",
+        "ItemType":  "Unique",
+        "Points":  3940,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  388,
+        "ItemName":  "Hellmouth",
+        "ItemType":  "Unique",
+        "Points":  2780,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  389,
+        "ItemName":  "Titan\u0027s Grip",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  390,
+        "ItemName":  "Dracul\u0027s Grasp",
+        "ItemType":  "Unique",
+        "Points":  2775,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  391,
+        "ItemName":  "Soul Drainer",
+        "ItemType":  "Unique",
+        "Points":  3111,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  392,
+        "ItemName":  "Occultist",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  393,
+        "ItemName":  "Steelrend",
+        "ItemType":  "Unique",
+        "Points":  46096,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  394,
+        "ItemName":  "Hotspur",
+        "ItemType":  "Unique",
+        "Points":  16769,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  395,
+        "ItemName":  "Gorefoot",
+        "ItemType":  "Unique",
+        "Points":  1086,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  396,
+        "ItemName":  "Treads of Cthon",
+        "ItemType":  "Unique",
+        "Points":  1156,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  397,
+        "ItemName":  "Goblin Toe",
+        "ItemType":  "Unique",
+        "Points":  974,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  398,
+        "ItemName":  "Tearhaunch",
+        "ItemType":  "Unique",
+        "Points":  712,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  399,
+        "ItemName":  "Infernostride",
+        "ItemType":  "Unique",
+        "Points":  1456,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  400,
+        "ItemName":  "Waterwalk",
+        "ItemType":  "Unique",
+        "Points":  2352,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  401,
+        "ItemName":  "Silkweave",
+        "ItemType":  "Unique",
+        "Points":  3018,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  402,
+        "ItemName":  "War Traveler",
+        "ItemType":  "Unique",
+        "Points":  3940,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  403,
+        "ItemName":  "Gore Rider",
+        "ItemType":  "Unique",
+        "Points":  2780,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  404,
+        "ItemName":  "Merman\u0027s Sprocket",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  405,
+        "ItemName":  "Sandstorm Trek",
+        "ItemType":  "Unique",
+        "Points":  1835,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  406,
+        "ItemName":  "Marrowwalk",
+        "ItemType":  "Unique",
+        "Points":  2327,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  407,
+        "ItemName":  "Shadow Dancer",
+        "ItemType":  "Unique",
+        "Points":  46096,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  408,
+        "ItemName":  "Itherael\u0027s Path",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  409,
+        "ItemName":  "Lenymo",
+        "ItemType":  "Unique",
+        "Points":  16769,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  410,
+        "ItemName":  "Snakecord",
+        "ItemType":  "Unique",
+        "Points":  1086,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  411,
+        "ItemName":  "Nightsmoke",
+        "ItemType":  "Unique",
+        "Points":  1156,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  412,
+        "ItemName":  "Goldwrap",
+        "ItemType":  "Unique",
+        "Points":  974,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  413,
+        "ItemName":  "Bladebuckle",
+        "ItemType":  "Unique",
+        "Points":  712,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  414,
+        "ItemName":  "String of Ears",
+        "ItemType":  "Unique",
+        "Points":  1456,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  415,
+        "ItemName":  "Razortail",
+        "ItemType":  "Unique",
+        "Points":  2352,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  416,
+        "ItemName":  "Gloom\u0027s Trap",
+        "ItemType":  "Unique",
+        "Points":  3018,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  417,
+        "ItemName":  "Snowclash",
+        "ItemType":  "Unique",
+        "Points":  3940,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  418,
+        "ItemName":  "Thundergod\u0027s Vigor",
+        "ItemType":  "Unique",
+        "Points":  2780,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  419,
+        "ItemName":  "Arachnid Mesh",
+        "ItemType":  "Unique",
+        "Points":  2760,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  420,
+        "ItemName":  "Nosferatu\u0027s Coil",
+        "ItemType":  "Unique",
+        "Points":  3103,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  421,
+        "ItemName":  "Verdungo\u0027s Hearty Cord",
+        "ItemType":  "Unique",
+        "Points":  2019,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  422,
+        "ItemName":  "Siggard\u0027s Staunch",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  423,
+        "ItemName":  "Band of Skulls",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  424,
+        "ItemName":  "Balefire",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Quiver"
+    },
+    {
+        "Id":  425,
+        "ItemName":  "Swiftwind Needle",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Quiver"
+    },
+    {
+        "Id":  426,
+        "ItemName":  "Tombsong",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Quiver"
+    },
+    {
+        "Id":  427,
+        "ItemName":  "Aetherwing",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Quiver"
+    },
+    {
+        "Id":  428,
+        "ItemName":  "Basilisk\u0027s Quill",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Quiver"
+    },
+    {
+        "Id":  429,
+        "ItemName":  "Doom\u0027s Finger",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Quiver"
+    },
+    {
+        "Id":  430,
+        "ItemName":  "Ramfodder",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Quiver"
+    },
+    {
+        "Id":  431,
+        "ItemName":  "Anvilguard Strap",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Quiver"
+    },
+    {
+        "Id":  432,
+        "ItemName":  "Shatterhead",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Quiver"
+    },
+    {
+        "Id":  433,
+        "ItemName":  "Abyssal Ward",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Quiver"
+    },
+    {
+        "Id":  434,
+        "ItemName":  "Bannerlord\u0027s Call",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Quiver"
+    },
+    {
+        "Id":  435,
+        "ItemName":  "Frozen Sorrow",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Quiver"
+    },
+    {
+        "Id":  436,
+        "ItemName":  "Nokozan Relic",
+        "ItemType":  "Unique",
+        "Points":  2211,
+        "SubType":  "Amulet"
+    },
+    {
+        "Id":  437,
+        "ItemName":  "The Eye of Etlich",
+        "ItemType":  "Unique",
+        "Points":  8843,
+        "SubType":  "Amulet"
+    },
+    {
+        "Id":  438,
+        "ItemName":  "The Mahim-Oak Curio",
+        "ItemType":  "Unique",
+        "Points":  4422,
+        "SubType":  "Amulet"
+    },
+    {
+        "Id":  439,
+        "ItemName":  "Saracen\u0027s Chance",
+        "ItemType":  "Unique",
+        "Points":  8843,
+        "SubType":  "Amulet"
+    },
+    {
+        "Id":  440,
+        "ItemName":  "Crescent Moon",
+        "ItemType":  "Unique",
+        "Points":  8843,
+        "SubType":  "Amulet"
+    },
+    {
+        "Id":  441,
+        "ItemName":  "The Cat\u0027s Eye",
+        "ItemType":  "Unique",
+        "Points":  8843,
+        "SubType":  "Amulet"
+    },
+    {
+        "Id":  442,
+        "ItemName":  "Atma\u0027s Scarab",
+        "ItemType":  "Unique",
+        "Points":  8843,
+        "SubType":  "Amulet"
+    },
+    {
+        "Id":  443,
+        "ItemName":  "Highlord\u0027s Wrath",
+        "ItemType":  "Unique",
+        "Points":  8843,
+        "SubType":  "Amulet"
+    },
+    {
+        "Id":  444,
+        "ItemName":  "The Rising Sun",
+        "ItemType":  "Unique",
+        "Points":  8843,
+        "SubType":  "Amulet"
+    },
+    {
+        "Id":  445,
+        "ItemName":  "Seraph\u0027s Hymn",
+        "ItemType":  "Unique",
+        "Points":  14739,
+        "SubType":  "Amulet"
+    },
+    {
+        "Id":  446,
+        "ItemName":  "Mara\u0027s Kaleidoscope",
+        "ItemType":  "Unique",
+        "Points":  8843,
+        "SubType":  "Amulet"
+    },
+    {
+        "Id":  447,
+        "ItemName":  "Metalgrid",
+        "ItemType":  "Unique",
+        "Points":  22109,
+        "SubType":  "Amulet"
+    },
+    {
+        "Id":  448,
+        "ItemName":  "The Third Eye",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Amulet"
+    },
+    {
+        "Id":  449,
+        "ItemName":  "Nagelring",
+        "ItemType":  "Unique",
+        "Points":  1159,
+        "SubType":  "Ring"
+    },
+    {
+        "Id":  450,
+        "ItemName":  "Manald Heal",
+        "ItemType":  "Unique",
+        "Points":  1159,
+        "SubType":  "Ring"
+    },
+    {
+        "Id":  451,
+        "ItemName":  "The Stone of Jordan",
+        "ItemType":  "Unique",
+        "Points":  17392,
+        "SubType":  "Ring"
+    },
+    {
+        "Id":  452,
+        "ItemName":  "Dwarf Star",
+        "ItemType":  "Unique",
+        "Points":  1739,
+        "SubType":  "Ring"
+    },
+    {
+        "Id":  453,
+        "ItemName":  "Raven Frost",
+        "ItemType":  "Unique",
+        "Points":  1739,
+        "SubType":  "Ring"
+    },
+    {
+        "Id":  454,
+        "ItemName":  "Bul-Kathos\u0027 Wedding Band",
+        "ItemType":  "Unique",
+        "Points":  17392,
+        "SubType":  "Ring"
+    },
+    {
+        "Id":  455,
+        "ItemName":  "Carrion Wind",
+        "ItemType":  "Unique",
+        "Points":  5797,
+        "SubType":  "Ring"
+    },
+    {
+        "Id":  456,
+        "ItemName":  "Nature\u0027s Peace",
+        "ItemType":  "Unique",
+        "Points":  5797,
+        "SubType":  "Ring"
+    },
+    {
+        "Id":  457,
+        "ItemName":  "Wisp Projector",
+        "ItemType":  "Unique",
+        "Points":  17392,
+        "SubType":  "Ring"
+    },
+    {
+        "Id":  458,
+        "ItemName":  "Constricting Loop",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Ring"
+    },
+    {
+        "Id":  459,
+        "ItemName":  "Kadala\u0027s Heirloom",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Ring"
+    },
+    {
+        "Id":  460,
+        "ItemName":  "Gheed\u0027s Fortune",
+        "ItemType":  "Unique",
+        "Points":  1179,
+        "SubType":  "Charm"
+    },
+    {
+        "Id":  461,
+        "ItemName":  "Hellfire Torch",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Charm"
+    },
+    {
+        "Id":  462,
+        "ItemName":  "Annihilus",
+        "ItemType":  "Unique",
+        "Points":  0,
+        "SubType":  "Charm"
+    },
+    {
+        "Id":  463,
+        "ItemName":  "Rainbow Facet",
+        "ItemType":  "Unique",
+        "Points":  9433,
+        "SubType":  "Jewel"
+    },
+    {
+        "Id":  467,
+        "ItemName":  "Arctic Furs",
+        "ItemType":  "Set",
+        "Points":  67,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  468,
+        "ItemName":  "Arctic Binding",
+        "ItemType":  "Set",
+        "Points":  438,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  469,
+        "ItemName":  "Arctic Mitts",
+        "ItemType":  "Set",
+        "Points":  797,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  470,
+        "ItemName":  "Arctic Horn",
+        "ItemType":  "Set",
+        "Points":  340,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  471,
+        "ItemName":  "Hsarus\u0027 Iron Heel",
+        "ItemType":  "Set",
+        "Points":  469,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  472,
+        "ItemName":  "Hsarus\u0027 Iron Stay",
+        "ItemType":  "Set",
+        "Points":  939,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  473,
+        "ItemName":  "Hsarus\u0027 Iron Fist",
+        "ItemType":  "Set",
+        "Points":  67,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  474,
+        "ItemName":  "Berserker\u0027s Headgear",
+        "ItemType":  "Set",
+        "Points":  466,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  475,
+        "ItemName":  "Berserker\u0027s Hauberk",
+        "ItemType":  "Set",
+        "Points":  398,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  476,
+        "ItemName":  "Berserker\u0027s Hatchet",
+        "ItemType":  "Set",
+        "Points":  235,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  477,
+        "ItemName":  "Cleglaw\u0027s Pincers",
+        "ItemType":  "Set",
+        "Points":  469,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  478,
+        "ItemName":  "Cleglaw\u0027s Claw",
+        "ItemType":  "Set",
+        "Points":  1002,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  479,
+        "ItemName":  "Cleglaw\u0027s Tooth",
+        "ItemType":  "Set",
+        "Points":  244,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  480,
+        "ItemName":  "Infernal Cranium",
+        "ItemType":  "Set",
+        "Points":  95,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  481,
+        "ItemName":  "Infernal Sign",
+        "ItemType":  "Set",
+        "Points":  797,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  482,
+        "ItemName":  "Infernal Spire",
+        "ItemType":  "Set",
+        "Points":  0,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  483,
+        "ItemName":  "Death\u0027s Guard",
+        "ItemType":  "Set",
+        "Points":  67,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  484,
+        "ItemName":  "Death\u0027s Hand",
+        "ItemType":  "Set",
+        "Points":  67,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  485,
+        "ItemName":  "Death\u0027s Touch",
+        "ItemType":  "Set",
+        "Points":  340,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  486,
+        "ItemName":  "Sigon\u0027s Visor",
+        "ItemType":  "Set",
+        "Points":  474,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  487,
+        "ItemName":  "Sigon\u0027s Shelter",
+        "ItemType":  "Set",
+        "Points":  379,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  488,
+        "ItemName":  "Sigon\u0027s Sabot",
+        "ItemType":  "Set",
+        "Points":  291,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  489,
+        "ItemName":  "Sigon\u0027s Wrap",
+        "ItemType":  "Set",
+        "Points":  291,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  490,
+        "ItemName":  "Sigon\u0027s Gage",
+        "ItemType":  "Set",
+        "Points":  291,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  491,
+        "ItemName":  "Sigon\u0027s Guard",
+        "ItemType":  "Set",
+        "Points":  474,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  492,
+        "ItemName":  "Isenhart\u0027s Horns",
+        "ItemType":  "Set",
+        "Points":  237,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  493,
+        "ItemName":  "Isenhart\u0027s Case",
+        "ItemType":  "Set",
+        "Points":  125,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  494,
+        "ItemName":  "Isenhart\u0027s Parry",
+        "ItemType":  "Set",
+        "Points":  365,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  495,
+        "ItemName":  "Isenhart\u0027s Lightbrand",
+        "ItemType":  "Set",
+        "Points":  237,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  496,
+        "ItemName":  "Civerb\u0027s Ward",
+        "ItemType":  "Set",
+        "Points":  466,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  497,
+        "ItemName":  "Civerb\u0027s Cudgel",
+        "ItemType":  "Set",
+        "Points":  712,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  498,
+        "ItemName":  "Civerb\u0027s Icon",
+        "ItemType":  "Set",
+        "Points":  15,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  499,
+        "ItemName":  "Cathan\u0027s Visage",
+        "ItemType":  "Set",
+        "Points":  395,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  500,
+        "ItemName":  "Cathan\u0027s Mesh",
+        "ItemType":  "Set",
+        "Points":  237,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  501,
+        "ItemName":  "Cathan\u0027s Rule",
+        "ItemType":  "Set",
+        "Points":  743,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  502,
+        "ItemName":  "Cathan\u0027s Sigil",
+        "ItemType":  "Set",
+        "Points":  15,
+        "SubType":  "Amulet"
+    },
+    {
+        "Id":  503,
+        "ItemName":  "Cathan\u0027s Seal",
+        "ItemType":  "Set",
+        "Points":  169,
+        "SubType":  "Ring"
+    },
+    {
+        "Id":  504,
+        "ItemName":  "Angelic Mantle",
+        "ItemType":  "Set",
+        "Points":  466,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  505,
+        "ItemName":  "Angelic Sickle",
+        "ItemType":  "Set",
+        "Points":  386,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  506,
+        "ItemName":  "Angelic Wings",
+        "ItemType":  "Set",
+        "Points":  15,
+        "SubType":  "Amulet"
+    },
+    {
+        "Id":  507,
+        "ItemName":  "Angelic Halo",
+        "ItemType":  "Set",
+        "Points":  394,
+        "SubType":  "Ring"
+    },
+    {
+        "Id":  508,
+        "ItemName":  "Vidala\u0027s Ambush",
+        "ItemType":  "Set",
+        "Points":  67,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  509,
+        "ItemName":  "Vidala\u0027s Fetlock",
+        "ItemType":  "Set",
+        "Points":  398,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  510,
+        "ItemName":  "Vidala\u0027s Barb",
+        "ItemType":  "Set",
+        "Points":  324,
+        "SubType":  "Quiver"
+    },
+    {
+        "Id":  511,
+        "ItemName":  "Vidala\u0027s Snare",
+        "ItemType":  "Set",
+        "Points":  15,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  512,
+        "ItemName":  "Arcanna\u0027s Head",
+        "ItemType":  "Set",
+        "Points":  1002,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  513,
+        "ItemName":  "Arcanna\u0027s Flesh",
+        "ItemType":  "Set",
+        "Points":  597,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  514,
+        "ItemName":  "Arcanna\u0027s Deathwand",
+        "ItemType":  "Set",
+        "Points":  980,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  515,
+        "ItemName":  "Arcanna\u0027s Sign",
+        "ItemType":  "Set",
+        "Points":  106,
+        "SubType":  "Amulet"
+    },
+    {
+        "Id":  516,
+        "ItemName":  "Iratha\u0027s Coil",
+        "ItemType":  "Set",
+        "Points":  724,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  517,
+        "ItemName":  "Iratha\u0027s Cord",
+        "ItemType":  "Set",
+        "Points":  797,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  518,
+        "ItemName":  "Iratha\u0027s Cuff",
+        "ItemType":  "Set",
+        "Points":  797,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  519,
+        "ItemName":  "Iratha\u0027s Collar",
+        "ItemType":  "Set",
+        "Points":  15,
+        "SubType":  "Amulet"
+    },
+    {
+        "Id":  520,
+        "ItemName":  "Milabrega\u0027s Diadem",
+        "ItemType":  "Set",
+        "Points":  724,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  521,
+        "ItemName":  "Milabrega\u0027s Robe",
+        "ItemType":  "Set",
+        "Points":  12,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  522,
+        "ItemName":  "Milabrega\u0027s Orb",
+        "ItemType":  "Set",
+        "Points":  237,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  523,
+        "ItemName":  "Milabrega\u0027s Rod",
+        "ItemType":  "Set",
+        "Points":  733,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  524,
+        "ItemName":  "Tancred\u0027s Skull",
+        "ItemType":  "Set",
+        "Points":  474,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  525,
+        "ItemName":  "Tancred\u0027s Spine",
+        "ItemType":  "Set",
+        "Points":  965,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  526,
+        "ItemName":  "Tancred\u0027s Hobnails",
+        "ItemType":  "Set",
+        "Points":  67,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  527,
+        "ItemName":  "Tancred\u0027s Crowbill",
+        "ItemType":  "Set",
+        "Points":  242,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  528,
+        "ItemName":  "Tancred\u0027s Weird",
+        "ItemType":  "Set",
+        "Points":  15,
+        "SubType":  "Amulet"
+    },
+    {
+        "Id":  529,
+        "ItemName":  "Cow King\u0027s Horns",
+        "ItemType":  "Set",
+        "Points":  0,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  530,
+        "ItemName":  "Cow King\u0027s Hide",
+        "ItemType":  "Set",
+        "Points":  0,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  531,
+        "ItemName":  "Cow King\u0027s Hooves",
+        "ItemType":  "Set",
+        "Points":  0,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  532,
+        "ItemName":  "Sander\u0027s Paragon",
+        "ItemType":  "Set",
+        "Points":  223,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  533,
+        "ItemName":  "Sander\u0027s Riprap",
+        "ItemType":  "Set",
+        "Points":  876,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  534,
+        "ItemName":  "Sander\u0027s Taboo",
+        "ItemType":  "Set",
+        "Points":  438,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  535,
+        "ItemName":  "Sander\u0027s Superstition",
+        "ItemType":  "Set",
+        "Points":  749,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  536,
+        "ItemName":  "Hwanin\u0027s Splendor",
+        "ItemType":  "Set",
+        "Points":  685,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  537,
+        "ItemName":  "Hwanin\u0027s Refuge",
+        "ItemType":  "Set",
+        "Points":  13,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  538,
+        "ItemName":  "Hwanin\u0027s Blessing",
+        "ItemType":  "Set",
+        "Points":  939,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  539,
+        "ItemName":  "Hwanin\u0027s Justice",
+        "ItemType":  "Set",
+        "Points":  713,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  540,
+        "ItemName":  "Guillaume\u0027s Face",
+        "ItemType":  "Set",
+        "Points":  16,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  541,
+        "ItemName":  "Wilhelm\u0027s Pride",
+        "ItemType":  "Set",
+        "Points":  16,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  542,
+        "ItemName":  "Magnus\u0027 Skin",
+        "ItemType":  "Set",
+        "Points":  971,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  543,
+        "ItemName":  "Whitstan\u0027s Guard",
+        "ItemType":  "Set",
+        "Points":  965,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  544,
+        "ItemName":  "Dark Adherent",
+        "ItemType":  "Set",
+        "Points":  767,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  545,
+        "ItemName":  "Rite of Passage",
+        "ItemType":  "Set",
+        "Points":  603,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  546,
+        "ItemName":  "Credendum",
+        "ItemType":  "Set",
+        "Points":  852,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  547,
+        "ItemName":  "Laying of Hands",
+        "ItemType":  "Set",
+        "Points":  690,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  548,
+        "ItemName":  "Telling of Beads",
+        "ItemType":  "Set",
+        "Points":  106,
+        "SubType":  "Amulet"
+    },
+    {
+        "Id":  549,
+        "ItemName":  "Naj\u0027s Circlet",
+        "ItemType":  "Set",
+        "Points":  477,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  550,
+        "ItemName":  "Naj\u0027s Light Plate",
+        "ItemType":  "Set",
+        "Points":  15,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  551,
+        "ItemName":  "Naj\u0027s Puzzler",
+        "ItemType":  "Set",
+        "Points":  16,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  552,
+        "ItemName":  "Sazabi\u0027s Mental Sheath",
+        "ItemType":  "Set",
+        "Points":  13,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  553,
+        "ItemName":  "Sazabi\u0027s Ghost Liberator",
+        "ItemType":  "Set",
+        "Points":  15,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  554,
+        "ItemName":  "Sazabi\u0027s Cobalt Redeemer",
+        "ItemType":  "Set",
+        "Points":  13,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  555,
+        "ItemName":  "Ondal\u0027s Almighty",
+        "ItemType":  "Set",
+        "Points":  12,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  556,
+        "ItemName":  "Haemosu\u0027s Adamant",
+        "ItemType":  "Set",
+        "Points":  570,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  557,
+        "ItemName":  "Taebaek\u0027s Glory",
+        "ItemType":  "Set",
+        "Points":  22,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  558,
+        "ItemName":  "Dangoon\u0027s Teaching",
+        "ItemType":  "Set",
+        "Points":  639,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  559,
+        "ItemName":  "Bul-Kathos\u0027 Death Band",
+        "ItemType":  "Set",
+        "Points":  0,
+        "SubType":  "Ring"
+    },
+    {
+        "Id":  560,
+        "ItemName":  "Bul-Kathos\u0027 Tribal Guardian",
+        "ItemType":  "Set",
+        "Points":  160,
+        "SubType":  "Ring"
+    },
+    {
+        "Id":  561,
+        "ItemName":  "Bul-Kathos\u0027 Sacred Charge",
+        "ItemType":  "Set",
+        "Points":  160,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  562,
+        "ItemName":  "Aldur\u0027s Stony Gaze",
+        "ItemType":  "Set",
+        "Points":  14,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  563,
+        "ItemName":  "Aldur\u0027s Deception",
+        "ItemType":  "Set",
+        "Points":  22,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  564,
+        "ItemName":  "Aldur\u0027s Advance",
+        "ItemType":  "Set",
+        "Points":  16,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  565,
+        "ItemName":  "Aldur\u0027s Rhythm",
+        "ItemType":  "Set",
+        "Points":  718,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  566,
+        "ItemName":  "Griswold\u0027s Valor",
+        "ItemType":  "Set",
+        "Points":  195,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  567,
+        "ItemName":  "Griswold\u0027s Heart",
+        "ItemType":  "Set",
+        "Points":  767,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  568,
+        "ItemName":  "Griswold\u0027s Honor",
+        "ItemType":  "Set",
+        "Points":  465,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  569,
+        "ItemName":  "Griswold\u0027s Redemption",
+        "ItemType":  "Set",
+        "Points":  480,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  570,
+        "ItemName":  "Immortal King\u0027s Will",
+        "ItemType":  "Set",
+        "Points":  12,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  571,
+        "ItemName":  "Immortal King\u0027s Soul Cage",
+        "ItemType":  "Set",
+        "Points":  195,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  572,
+        "ItemName":  "Immortal King\u0027s Pillar",
+        "ItemType":  "Set",
+        "Points":  12,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  573,
+        "ItemName":  "Immortal King\u0027s Detail",
+        "ItemType":  "Set",
+        "Points":  12,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  574,
+        "ItemName":  "Immortal King\u0027s Forge",
+        "ItemType":  "Set",
+        "Points":  12,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  575,
+        "ItemName":  "Immortal King\u0027s Stone Crusher",
+        "ItemType":  "Set",
+        "Points":  491,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  576,
+        "ItemName":  "M\u0027avina\u0027s True Sight",
+        "ItemType":  "Set",
+        "Points":  195,
+        "SubType":  "Quiver"
+    },
+    {
+        "Id":  577,
+        "ItemName":  "M\u0027avina\u0027s Embrace",
+        "ItemType":  "Set",
+        "Points":  12,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  578,
+        "ItemName":  "M\u0027avina\u0027s Tenet",
+        "ItemType":  "Set",
+        "Points":  971,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  579,
+        "ItemName":  "M\u0027avina\u0027s Icy Clutch",
+        "ItemType":  "Set",
+        "Points":  16,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  580,
+        "ItemName":  "M\u0027avina\u0027s Caster",
+        "ItemType":  "Set",
+        "Points":  27,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  581,
+        "ItemName":  "Natalya\u0027s Totem",
+        "ItemType":  "Set",
+        "Points":  16,
+        "SubType":  "Shield"
+    },
+    {
+        "Id":  582,
+        "ItemName":  "Natalya\u0027s Shadow",
+        "ItemType":  "Set",
+        "Points":  847,
+        "SubType":  "Boots"
+    },
+    {
+        "Id":  583,
+        "ItemName":  "Natalya\u0027s Soul",
+        "ItemType":  "Set",
+        "Points":  13,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  584,
+        "ItemName":  "Natalya\u0027s Mark",
+        "ItemType":  "Set",
+        "Points":  190,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  585,
+        "ItemName":  "Tal Rasha\u0027s Horadric Crest",
+        "ItemType":  "Set",
+        "Points":  574,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  586,
+        "ItemName":  "Tal Rasha\u0027s Guardianship",
+        "ItemType":  "Set",
+        "Points":  22,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  587,
+        "ItemName":  "Tal Rasha\u0027s Fine-Spun Cloth",
+        "ItemType":  "Set",
+        "Points":  13,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  588,
+        "ItemName":  "Tal Rasha\u0027s Lidless Eye",
+        "ItemType":  "Set",
+        "Points":  18,
+        "SubType":  "Amulet"
+    },
+    {
+        "Id":  589,
+        "ItemName":  "Tal Rasha\u0027s Adjudication",
+        "ItemType":  "Set",
+        "Points":  106,
+        "SubType":  "Weapon"
+    },
+    {
+        "Id":  590,
+        "ItemName":  "Trang-Oul\u0027s Guise",
+        "ItemType":  "Set",
+        "Points":  22,
+        "SubType":  "Helm"
+    },
+    {
+        "Id":  591,
+        "ItemName":  "Trang-Oul\u0027s Scales",
+        "ItemType":  "Set",
+        "Points":  12,
+        "SubType":  "Chest"
+    },
+    {
+        "Id":  592,
+        "ItemName":  "Trang-Oul\u0027s Girth",
+        "ItemType":  "Set",
+        "Points":  22,
+        "SubType":  "Belt"
+    },
+    {
+        "Id":  593,
+        "ItemName":  "Trang-Oul\u0027s Claws",
+        "ItemType":  "Set",
+        "Points":  13,
+        "SubType":  "Gloves"
+    },
+    {
+        "Id":  594,
+        "ItemName":  "Trang-Oul\u0027s Wing",
+        "ItemType":  "Set",
+        "Points":  40,
+        "SubType":  "Shield"
+    }
+]
